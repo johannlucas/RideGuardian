@@ -1,4 +1,4 @@
-﻿namespace RideGuardian.Models
+﻿namespace RideGuardian.Domain.ValueObjects
 {
     public class Authentication
     {
